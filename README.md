@@ -1,4 +1,4 @@
-# Primer entrega del Proyeco Final
+# Primera entrega del Proyeco Final
 **CONSIGNAS**:
 
  1. El **router base '/api/products** implementa las siguientes funcionalidades:
